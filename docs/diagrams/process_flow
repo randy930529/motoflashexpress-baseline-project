@@ -1,0 +1,38 @@
+Cliente
+   │
+   ▼
+Web/Mobile App (Frontend)
+   │
+   ▼
+Registro / Autenticación
+   │
+   ▼
+Selección de servicio (errand, entrega, compra local)
+   │
+   ▼
+Carrito de pedidos + Pago en línea
+   │
+   ▼
+REST API
+   │
+   ▼
+Central Database
+   │
+   ▼
+Shared Logistics Module
+   │
+   ├──► Asignación de repartidor
+   │
+   └──► Validación de duplicados / sincronización
+   │
+   ▼
+Rider asignado
+   │
+   ▼
+Entrega en tiempo real (tracking)
+   │
+   ▼
+Confirmación de entrega
+   │
+   ▼
+Actualización en sistema interno + Notificación al cliente
