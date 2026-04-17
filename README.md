@@ -17,7 +17,7 @@ Moto Flash Express is a technology platform designed to revolutionize motorcycle
 * **Geolocation:** Integration with Google Maps Platform.
 
 ## Documents of Baseline
-To view the project configuration documentation (**SCM**), go to the ``docs`` branch:
+To view the project configuration documentation (**SCM**), go to the [**docs branch**](https://github.com/randy930529/motoflashexpress-baseline-project/tree/docs) or run in your local space:
 
 ``
   git switch docs
