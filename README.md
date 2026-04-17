@@ -15,3 +15,10 @@ Moto Flash Express is a technology platform designed to revolutionize motorcycle
 * **Data Base:** PostgreSQL.
 
 * **Geolocation:** Integration with Google Maps Platform.
+
+## Documents of Baseline
+To view the project configuration documentation (**SCM**), go to the ``docs`` branch:
+
+``
+  git switch docs
+``
