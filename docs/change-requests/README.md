@@ -12,7 +12,6 @@ Provide a single visible location in the repository for:
 
 ## Structure
 
-- `CR-Intake-and-Execution-Plan.md`: Project-manager plan for intake, analysis, approval, and execution.
 - `CR-MOTO-002_Compliance_Package_Traceability.md`: Regulatory compliance CR.
 - `CR-MOTO-003_MultiCity_Monitoring_Module.md`: Multi-city monitoring CR.
 - `CR-MOTO-004_Client_UI_Reorganization.md`: Client UI reorganization CR.
