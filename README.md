@@ -8,10 +8,14 @@ Moto Flash Express is a technology platform designed to revolutionize motorcycle
 
 ## Stack (Suggest Technology)
 
-* **Frontend:** App React / React Native (Web/Androi).
+- **Frontend:** App React / React Native (Web/Androi).
 
-* **Backend:** Node.js whith Express.
+- **Backend:** Node.js whith Express.
 
-* **Data Base:** PostgreSQL.
+- **Data Base:** PostgreSQL.
 
-* **Geolocation:** Integration with Google Maps Platform.
+- **Geolocation:** Integration with Google Maps Platform.
+
+## New contribute
+
+1. New change requests must be documented under `docs/change-requests/`.
