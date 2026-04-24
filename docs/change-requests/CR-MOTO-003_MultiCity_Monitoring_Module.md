@@ -50,3 +50,31 @@ The client is expanding to nearby cities and requests a module to monitor servic
 
 - Current state: PROPOSED
 - Priority: HIGH
+
+## 8. Time and Team Effort Estimation
+
+### 8.1 Estimated timeline
+
+- KPI definition and city taxonomy alignment: 1 week
+- Data model extension and aggregation services: 2 weeks
+- Dashboard and filters implementation: 2 weeks
+- QA, performance tuning, and UAT: 1 week
+- Total estimated duration: 6 weeks
+
+### 8.2 Team effort estimate
+
+| Role                  | Estimated effort (person-weeks) |
+| --------------------- | ------------------------------- |
+| Senior Developer      | 1.5                             |
+| Semi-Senior Developer | 2.5                             |
+| Junior Developer      | 1.0                             |
+| QA Engineer           | 1.0                             |
+| Data/BI Support       | 0.5                             |
+| DevOps/Infrastructure | 0.5                             |
+| Total                 | 7.0 person-weeks                |
+
+### 8.3 Planning assumptions
+
+- City operational data is available in a normalized format.
+- Existing dashboard framework can be extended.
+- Current reporting permissions model is reusable.

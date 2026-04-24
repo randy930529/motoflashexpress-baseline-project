@@ -50,3 +50,31 @@ Due to government regulation related to misuse of last-mile delivery services, t
 
 - Current state: PROPOSED
 - Priority: CRITICAL
+
+## 8. Time and Team Effort Estimation
+
+### 8.1 Estimated timeline
+
+- Analysis and legal specification: 1 week
+- Data model and API implementation: 2 weeks
+- Detection rules and reporting: 1 week
+- QA, security validation, and UAT: 2 weeks
+- Total estimated duration: 6 weeks
+
+### 8.2 Team effort estimate
+
+| Role                     | Estimated effort (person-weeks) |
+| ------------------------ | ------------------------------- |
+| Senior Developer         | 2.0                             |
+| Semi-Senior Developer    | 2.0                             |
+| Junior Developer         | 1.0                             |
+| QA Engineer              | 1.5                             |
+| Legal/Compliance Analyst | 0.5                             |
+| DevOps/Infrastructure    | 0.5                             |
+| Total                    | 7.5 person-weeks                |
+
+### 8.3 Planning assumptions
+
+- Legal requirements are clarified in the first week.
+- No external law-enforcement integrations are included in this CR.
+- Existing authentication and role permissions can be reused.

@@ -48,3 +48,30 @@ The client requires a reorganization of the client-facing screen layout accordin
 
 - Current state: PROPOSED
 - Priority: MEDIUM-HIGH
+
+## 8. Time and Team Effort Estimation
+
+### 8.1 Estimated timeline
+
+- UX proposal and marketing alignment: 1 week
+- UI implementation and navigation updates: 2 weeks
+- A/B pilot and usability validation: 1 week
+- QA regression and release preparation: 1 week
+- Total estimated duration: 5 weeks
+
+### 8.2 Team effort estimate
+
+| Role                           | Estimated effort (person-weeks) |
+| ------------------------------ | ------------------------------- |
+| UI/UX Designer                 | 1.0                             |
+| Semi-Senior Frontend Developer | 1.5                             |
+| Junior Frontend Developer      | 1.0                             |
+| QA Engineer                    | 1.0                             |
+| Product/Marketing Owner        | 0.5                             |
+| Total                          | 5.0 person-weeks                |
+
+### 8.3 Planning assumptions
+
+- Marketing priorities are frozen before UI implementation starts.
+- No full rebranding is included in this CR.
+- A/B metrics can be measured with existing analytics tools.
